@@ -16,10 +16,9 @@ A student housing search and tracking platform with an interactive Python-powere
 
 ## Tech Stack
 
-- Python 3  
+- Python 
 - Streamlit for UI  
 - SQLite / PostgreSQL for database  
 - API integration or web scraping for listings  
-- SMTP or Telegram API for alerts
 
 ---
