@@ -13,12 +13,3 @@ A student housing search and tracking platform with an interactive Python-powere
 - 🛠 Built with Python and Streamlit for rapid development
 
 ---
-
-## Tech Stack
-
-- Python 
-- Streamlit for UI  
-- SQLite / PostgreSQL for database  
-- API integration or web scraping for listings  
-
----
